@@ -18,6 +18,7 @@ else if(marks>=50){
     console.log("your grade is E");
 }
 else{
-    console.log("yo have faile dthe exam");
+    console.log("yo have faile dthe exam completely");
+    
 }
 
