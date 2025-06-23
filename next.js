@@ -1,4 +1,6 @@
-let a=5;
-let b=2;
-console.log("a=",a,"&b=",b)
-console.log("++a=",++a)
+let gamenumber=23;
+let usernum=prompt("guess the gamenumber user");
+while (usernum != gamenumber){
+  usernum= prompt("you entered a wrong numbe rplease try guessing it again!");
+}
+console.log("congratulations! you won the game")
